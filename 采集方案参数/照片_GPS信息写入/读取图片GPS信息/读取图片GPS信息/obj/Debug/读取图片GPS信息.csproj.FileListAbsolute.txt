@@ -1,0 +1,9 @@
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Debug\读取图片GPS信息.exe.config
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Debug\读取图片GPS信息.exe
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Debug\读取图片GPS信息.pdb
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.csprojResolveAssemblyReference.cache
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.Form1.resources
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.Properties.Resources.resources
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.csproj.GenerateResource.Cache
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.exe
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Debug\读取图片GPS信息.pdb

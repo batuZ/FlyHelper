@@ -1,0 +1,20 @@
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.exe.config
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.exe
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.pdb
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\bin\Release\ExifLib.dll
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.Form1.resources
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.Properties.Resources.resources
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.csproj.GenerateResource.Cache
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.exe
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.pdb
+E:\工程文件\VS2012 工程文件\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.csprojResolveAssemblyReference.cache
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.exe.config
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.exe
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.pdb
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.exe
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\bin\Release\读取图片GPS信息.pdb
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\bin\Release\ExifLib.dll
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.csprojResolveAssemblyReference.cache
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.Form1.resources
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.Properties.Resources.resources
+D:\code\方案助手\采集方案参数\照片_GPS信息写入\读取图片GPS信息\读取图片GPS信息\obj\Release\读取图片GPS信息.csproj.GenerateResource.Cache
